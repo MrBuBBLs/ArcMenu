@@ -1,6 +1,7 @@
 #ArcMenu
 
 An android custom view which looks like the menu in [Path 2.0](https://path.com/) (for iOS).
+Originally done by [daCapricorn](https://github.com/daCapricorn/ArcMenu).
 
 ![Preview](https://dl.dropbox.com/u/11369687/preview0.png)
 ![Preview](https://dl.dropbox.com/u/11369687/preview1.png)
@@ -41,15 +42,14 @@ arcLayout.setChildSize(50);
 arcLayout.setArc(0.0f, 300.0f);    
 ```
 
-##Author
+##Origin & More
+**Original author: [Capricorn](https://github.com/daCapricorn/ArcMenu)**
 
-**Capricorn**
+**Forker: MrBuBBLs**
 
-I'm glad to make friends with the people who persist in faith and follow their dreams.
-
-Please let me know you are around.
-
-Google+: [+魔羯](https://plus.google.com/107460592910747948011)
+[GitHub](https://github.com/MrBuBBLs)
+[Twitter](https://twitter.com/#!/MrBuBBLs)
+[Google+](https://plus.google.com/111952807180188983777)
 
 
 
